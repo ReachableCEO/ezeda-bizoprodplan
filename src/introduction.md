@@ -9,7 +9,7 @@ Turnkey Network Systems LLC global Operating agreement prohibts Contributor Lice
 
 Turnkey Network Systems LLC and EzEda.org LLC does require a Developer Certificate of Origin.
 
-## Links to show how this plan gets reduced to practice
+## Reduction to practice
 
 - [GIT Organization](https://git.knownelement.com/EzEDA.org)
 - [Discourse category](https://community.turnsys.com/c/floprojects/ezeda/28)
