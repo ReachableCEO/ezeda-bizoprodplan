@@ -1,3 +1,8 @@
+---
+title: 'EzEDA - Business/Operations/Product Plan - Introduction'
+menu: 'EzEDA - Business/Operations/Product Plan - Introduction'
+---
+
 
 # EzEDA - Business/Operations/Product Plan - Introduction
 
